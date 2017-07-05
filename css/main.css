@@ -1,3 +1,17 @@
-h1 {
-  
+.sample-column {
+   border: solid 1px black;  text-align: center;
+ }
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+   .jumbotron {
+     background-image: url("../img/background-2160437_1280.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+     color: white;
+     text-shadow: black 0.1em 0.1em 0.1em;
+}
+
+.middle-section{
+  background-color: #f7d425;
 }
